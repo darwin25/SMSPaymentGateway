@@ -1,0 +1,18 @@
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\SMSPaymentGatewayClassLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\SMSPaymentGatewayClassLibrary.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\AntiXssLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\AntiXssLibrary.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\SMSPaymentGatewayClassLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\SMSPaymentGatewayClassLibrary.pdb
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\AntiXssLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\AntiXssLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGatewayClassLibrary\obj\Debug\SMSPaymentGatewayClassLibrary.pdb

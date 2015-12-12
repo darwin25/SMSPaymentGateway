@@ -1,0 +1,238 @@
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll.config
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Owin.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\WebGrease.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.pdb
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\MySql.Data.Entity.EF6.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\AjaxControlToolkit.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\de\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\es\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\he\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\it\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.ReportSource.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Shared.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Web.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.dll
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.xml
+C:\Projects\SMSPaymentGateway\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll.config
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.pdb
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.ReportSource.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Shared.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Web.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Owin.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\WebGrease.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.pdb
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.pdb
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\Visual Studio 2013\Projects\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.pdb
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll.config
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGateway.pdb
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.ReportSource.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Shared.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\CrystalDecisions.Web.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Owin.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\WebGrease.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\SMSPaymentGatewayClassLibrary.pdb
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\AntiXssLibrary.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\HtmlSanitizationLibrary.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Optimization.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Antlr3.Runtime.pdb
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Newtonsoft.Json.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\EntityFramework.SqlServer.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\System.Web.Providers.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.dll
+C:\Users\DarwinAP\Documents\GitHub\SMSPaymentGateway\SMSPaymentGateway\obj\Debug\SMSPaymentGateway.pdb
